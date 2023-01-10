@@ -1,0 +1,22 @@
+{
+  "name": "Web_Automation_in_Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0",
+    "cypress-iframe": "^1.0.1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-xpath": "^2.0.1",
+    "mocha": "^10.1.0",
+    "mochawesome-merge": "^4.2.1"
+  }
+}
